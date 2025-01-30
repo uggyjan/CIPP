@@ -6,6 +6,7 @@ export const Logo = (props) => {
       src="https://i.imgur.com/64xD6Iv.png" 
       alt="Logo"
       height="40px" 
+      style={{ paddingBottom: "10px" }} 
       {...props} 
     />
   );
